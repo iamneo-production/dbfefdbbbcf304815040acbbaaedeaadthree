@@ -1,0 +1,4 @@
+com/examly/springapp/model/Book.class
+com/examly/springapp/service/BookService.class
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/controller/BookController.class
