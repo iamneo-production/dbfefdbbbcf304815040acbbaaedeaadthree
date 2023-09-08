@@ -13,7 +13,7 @@ import com.examly.springapp.service.BookService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/adsa")
 public class BookController {
     @Autowired
     private BookService bookService;
